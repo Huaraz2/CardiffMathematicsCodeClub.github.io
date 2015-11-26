@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Useful git commands
+title: Useful Git commands
 categories: helpful stuff
 ---
