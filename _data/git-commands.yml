@@ -1,53 +1,53 @@
 add:
-  name:
+  name: add
   description:
   usage:
   options:
 
 bisect:
-  name:
+  name: bisect
   description:
   usage:
   options:
 
 branch:
-  name:
+  name: branch
   description:
   usage:
   options:
 
 clone:
-  name:
+  name: clone
   description:
   usage:
   options:
 
 commit:
-  name:
+  name: commit
   description:
   usage:
   options:
 
 merge:
-  name:
+  name: merge
   description:
   usage:
   options:
 
 push:
-  name:
+  name: push
   description:
   usage:
   options:
 
 pull:
-  name:
+  name: pull
   description:
   usage:
   options:
 
 rebase:
-  name:
+  name: rebase
   description:
   usage:
   options:
