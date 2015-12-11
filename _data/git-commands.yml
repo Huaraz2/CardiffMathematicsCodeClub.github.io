@@ -1,0 +1,53 @@
+add:
+  name:
+  description:
+  usage:
+  options:
+
+bisect:
+  name:
+  description:
+  usage:
+  options:
+
+branch:
+  name:
+  description:
+  usage:
+  options:
+
+clone:
+  name:
+  description:
+  usage:
+  options:
+
+commit:
+  name:
+  description:
+  usage:
+  options:
+
+merge:
+  name:
+  description:
+  usage:
+  options:
+
+push:
+  name:
+  description:
+  usage:
+  options:
+
+pull:
+  name:
+  description:
+  usage:
+  options:
+
+rebase:
+  name:
+  description:
+  usage:
+  options:
