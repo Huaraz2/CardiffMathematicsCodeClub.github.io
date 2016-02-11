@@ -8,4 +8,8 @@
   url: '/reference.html'
 - text: Get involved
   url: '/getinvolved.html'
-  
+  subitems:
+    - text: Git cheatsheet
+      url: /helpfulstuff/git-commands.html
+    - text: Past Sessions FAQ
+      url: /helpfulstuff/what-is-the-past-sessions-page.html
